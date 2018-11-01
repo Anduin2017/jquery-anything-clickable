@@ -1,6 +1,6 @@
 {
   "name": "jquery-anything-clickable",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A jQuery plugin which makes anything clickable easily.",
   "main": "index.js",
   "scripts": {
