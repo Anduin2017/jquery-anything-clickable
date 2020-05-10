@@ -2,7 +2,7 @@
 
 A jQuery plugin which makes anything clickable easily.
 
-[![npm](https://img.shields.io/npm/v/jquery-utc-time.svg?style=flat)](https://www.npmjs.com/package/jquery-anything-clickable)
+[![npm](https://img.shields.io/npm/v/jquery-anything-clickable.svg?style=flat)](https://www.npmjs.com/package/jquery-anything-clickable)
 
 ## How to install
 
