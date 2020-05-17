@@ -20,7 +20,7 @@ And add your reference:
 Or in es6
 
 ```js
-import 'jquery-anything-clickable';
+import { Clickable } from 'jquery-anything-clickable';
 ```
 
 ## How to use
