@@ -1,6 +1,6 @@
 {
   "name": "jquery-anything-clickable",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A jQuery plugin which makes anything clickable easily.",
   "scripts": {
     "build": "webpack"
@@ -12,9 +12,9 @@
   "keywords": [
     "jquery"
   ],
-  "main": "dist/jquery-anything-clickable",
+  "main": "dist/jquery-anything-clickable.min.js",
   "files": [
-    "dist/jquery-anything-clickable.js"
+    "dist/jquery-anything-clickable.min.js"
   ],
   "author": "anduin@aiursoft.com",
   "license": "MIT",
