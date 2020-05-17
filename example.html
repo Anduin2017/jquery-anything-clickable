@@ -1,8 +1,9 @@
-<script src="./node_modules/jquery/dist/jquery.js"></script>
-<script src="./src/jquery-anything-clickable.js"></script>
-
 <button data-href="https://www.aiursoft.com">Click me</button>
-
 <br>
+<img data-href="https://aiursoft.aiur.site/512x512.png" src="https://aiursoft.aiur.site/512x512.png">
 
-<img data-href="https://www.aiursoft.com/img/back.jpg" src="https://www.aiursoft.com/img/back.jpg">
+<script src="./node_modules/jquery/dist/jquery.js"></script>
+<script src="./dist/jquery-anything-clickable.min.js"></script>
+<script>
+    new Clickable('data-href');
+</script>

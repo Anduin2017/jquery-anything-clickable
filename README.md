@@ -17,6 +17,12 @@ And add your reference:
 <script src="node_modules/jquery-anything-clickable/src/jquery-anything-clickable.js"></script>
 ```
 
+Or in es6
+
+```js
+import 'jquery-anything-clickable';
+```
+
 ## How to use
 
 Create an element.
@@ -33,6 +39,12 @@ And change it like this.
 <p data-href="https://www.aiursoft.com">
   
 </p>
+```
+
+Init it:
+
+```javascript
+new Clickable('data-href');
 ```
 
 And when it starts, just click it!
