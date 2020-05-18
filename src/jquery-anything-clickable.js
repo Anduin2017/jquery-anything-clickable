@@ -1,12 +1,9 @@
-import $ from 'jquery';
-
 class Clickable {
     constructor(pattern) {
-        $(`[${pattern}]`).each((index, element) => {
-            var it = $(element);
-            it.css('cursor', 'pointer');
-            it.click(() => {
-                var href = it.attr(pattern);
+        document.querySelectorAll(`[${pattern}]`).forEach((element) => {
+            element.style.cursor = 'pointer';
+            element.addEventListener('click', () => {
+                var href = element.getAttribute(pattern);
                 if (href) {
                     window.location = href;
                 }
@@ -15,4 +12,4 @@ class Clickable {
     }
 }
 
-export { Clickable }
+export default Clickable
