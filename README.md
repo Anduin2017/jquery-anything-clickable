@@ -7,7 +7,7 @@ A jQuery plugin which makes anything clickable easily.
 ## How to install
 
 ```bash
-$ npm install jquery-anything-clickable
+npm install jquery-anything-clickable
 ```
 
 And add your reference:
