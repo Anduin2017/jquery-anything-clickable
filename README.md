@@ -3,6 +3,7 @@
 A jQuery plugin which makes anything clickable easily.
 
 [![npm](https://img.shields.io/npm/v/jquery-anything-clickable.svg?style=flat)](https://www.npmjs.com/package/jquery-anything-clickable)
+[![ManHours](https://manhours.aiursoft.cn/gitlab/gitlab.aiursoft.cn/anduin/jquery-anything-clickable)](https://gitlab.aiursoft.cn/anduin/jquery-anything-clickable/-/commits/master?ref_type=heads)
 
 ## How to install
 
